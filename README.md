@@ -8,7 +8,7 @@ The IT team reported an unknown file, "xxx.exe," in an employee's registry. OSIN
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/qMkJGH7.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
